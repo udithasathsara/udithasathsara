@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @udithasathsara
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning infomation technology
+- 🌱 I’m currently learning information technology
 - 💞️ I’m looking to collaborate on software engineering
 - 📫 How to reach me ...
 
